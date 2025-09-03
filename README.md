@@ -1,0 +1,1 @@
+Analyzing WhatsApp data with Python (Streamlit, Pandas, Matplotlib, Seaborn) to uncover communication patterns. Key metrics include total messages, media, and links. Visualizations like monthly/daily timelines, activity maps, and top words/emojis provide clear insights, transforming raw data into actionable intelligence for informed decisions.
